@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed1b9952-0690-43c8-b7a4-941514c09399" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/js-array.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/stackoverflow/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jsonArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/JasmineAdapter/JasmineAdapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/jsonArrayTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/require/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testconf.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/stackoverflow/app.js" afterPath="$PROJECT_DIR$/examples/stackoverflow/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jsonArray.js" afterPath="$PROJECT_DIR$/lib/jsonArray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="js-array.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370829515612" ignored="false" />
-    <file path="/app.js" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370917901457" ignored="false" />
+    <file path="/app.js" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370926338735" ignored="false" />
     <file path="/jsArray.js" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370844471907" ignored="false" />
-    <file path="/jsonArray.js" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370921001309" ignored="false" />
+    <file path="/jsonArray.js" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370924696876" ignored="false" />
+    <file path="/jsonArray.jstd" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370921210172" ignored="false" />
+    <file path="/jsonArrayTest.js" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370926250563" ignored="false" />
+    <file path="/testconf.conf" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370923346894" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +39,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/stackoverflow/app.js">
+      <file leaf-file-name="jsonArrayTest.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/jsonArrayTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="15" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0">
+            <state line="22" column="77" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsonArray.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/stackoverflow/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="53" selection-start="2128" selection-end="2128" vertical-scroll-proportion="0.9001513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testconf.conf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testconf.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="19" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsonArray.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/jsonArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="20" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.9742814">
+            <state line="101" column="2" selection-start="3051" selection-end="3051" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,8 +104,14 @@
       <list>
         <option value="$PROJECT_DIR$/js/jsArray.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/examples/stackoverflow/app.js" />
+        <option value="$PROJECT_DIR$/jsonArray.jstd" />
+        <option value="$PROJECT_DIR$/test/lib/JasmineAdapter/JasmineAdapter.js" />
+        <option value="$PROJECT_DIR$/test/lib/require/require.js" />
         <option value="$PROJECT_DIR$/lib/jsonArray.js" />
+        <option value="$PROJECT_DIR$/test/requirejs_config.js" />
+        <option value="$PROJECT_DIR$/testconf.conf" />
+        <option value="$PROJECT_DIR$/test/jsonArrayTest.js" />
+        <option value="$PROJECT_DIR$/examples/stackoverflow/app.js" />
       </list>
     </option>
   </component>
@@ -142,6 +175,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="require" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -189,6 +276,13 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -199,8 +293,18 @@
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="testconf.conf" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="$PROJECT_DIR$/testconf.conf" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <RunnerSettings RunnerId="JsTestDriverClientRunner" />
+      <ConfigurationWrapper RunnerId="JsTestDriverClientRunner" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Node.js (stackoverflow example)" />
+      <item index="1" class="java.lang.String" itemvalue="JsTestDriver.testconf.conf" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -224,7 +328,8 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32254902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32647058" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32647058" sideWeight="0.49973643" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32647058" sideWeight="0.5002636" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -304,16 +409,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/stackoverflow/app.js">
+    <entry file="file://$PROJECT_DIR$/test/lib/JasmineAdapter/JasmineAdapter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="15" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0">
+        <state line="69" column="77" selection-start="1879" selection-end="1879" vertical-scroll-proportion="1.7745839">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lib/require/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2044" column="9" selection-start="81954" selection-end="81954" vertical-scroll-proportion="0.84568834">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/jsonArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="20" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.9742814">
+        <state line="101" column="2" selection-start="3051" selection-end="3051" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testconf.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="50" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/jsonArrayTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="77" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/stackoverflow/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="53" selection-start="2128" selection-end="2128" vertical-scroll-proportion="0.9001513">
           <folding />
         </state>
       </provider>

@@ -2,7 +2,7 @@ var express = require('express');
 var request = require('request');
 var Q = require('q');
 var zlib = require('zlib');
-var jsArray = require('./../../lib/jsonArray');
+var jsonArray = require('./../../lib/jsonArray');
 
 var app = express();
 
@@ -72,14 +72,7 @@ app.get('/', function(req, res){
     var answers = [];
     getAllAnswers(10)
         .then(function(answers) {
-            //var a = jsArray.toJSArray(r);
-
-            res.json(answers);
-
-            //console.log(JSON.stringify(a.schema));
-            // res.json(jsArray.fromJSArray(a));
-
-            //res.json(r);
+            res.json(jsonArray.toJSONArray(answers));
         });
 });
 
