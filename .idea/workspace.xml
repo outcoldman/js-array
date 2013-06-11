@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed1b9952-0690-43c8-b7a4-941514c09399" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/JasmineAdapter/JasmineAdapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/jsonArrayTest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/require/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testconf.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/stackoverflow/app.js" afterPath="$PROJECT_DIR$/examples/stackoverflow/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jsonArray.js" afterPath="$PROJECT_DIR$/lib/jsonArray.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ed1b9952-0690-43c8-b7a4-941514c09399" name="Default" comment="" />
     <ignored path="js-array.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ed1b9952-0690-43c8-b7a4-941514c09399" time="1370829515612" ignored="false" />
@@ -51,7 +42,7 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/stackoverflow/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="53" selection-start="2128" selection-end="2128" vertical-scroll-proportion="0.9001513">
+            <state line="70" column="3" selection-start="1996" selection-end="1996" vertical-scroll-proportion="1.8003026">
               <folding />
             </state>
           </provider>
@@ -462,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/stackoverflow/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="53" selection-start="2128" selection-end="2128" vertical-scroll-proportion="0.9001513">
+        <state line="70" column="3" selection-start="1996" selection-end="1996" vertical-scroll-proportion="1.8003026">
           <folding />
         </state>
       </provider>
